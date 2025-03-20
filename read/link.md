@@ -21,9 +21,10 @@ has_children: false
 
 ## Garuda Linux / Edition
 
-| Garuda Linux Edition |
-| -------------------- |
-| [Garuda Cinnamon](https://garudalinux.org/installation?edition=cinnamon) |
+| Garuda Linux Edition / Settings |
+| ---- |
+| [Garuda Common Settings](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-common-settings) |
+| [Garuda Cinnamon](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-cinnamon-settings) |
 
 
 
