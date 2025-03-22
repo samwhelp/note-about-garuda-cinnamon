@@ -87,6 +87,8 @@ mod_cinnamon_config_for_keybind_main () {
 	gsettings set org.cinnamon.desktop.keybindings.wm switch-windows "['<Super>s']"
 
 
+	## > Alt+Left, Alt+Right, Alt+Up, used by file manager
+
 	##
 	## ## Workspace / Switch
 	##
